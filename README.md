@@ -4,4 +4,4 @@ Some works did for a detective game project
 ![image](https://github.com/linktozhy/webPage/blob/master/image/newProfile.png)
 
 2. Score board page of the game
-![image]()
+![image](https://github.com/linktozhy/webPage/blob/master/image/scoreboard.png)
